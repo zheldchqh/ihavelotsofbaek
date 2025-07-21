@@ -19,7 +19,7 @@
 # print(len(L))
 
 # note
-# This code above is too slow to copy and paste right into baekjoon, please run it in a local environment and copy paste the output.
+# This code below is too slow to copy and paste right into baekjoon, please run it in a local environment and copy paste the output.
 
 import random
 

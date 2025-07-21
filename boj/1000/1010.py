@@ -1,5 +1,6 @@
 import math
 
-for _ in range(int(input())):
+T = int(input())
+for _ in range(T):
     a, b = map(int, input().split())
     print(math.comb(b, a))

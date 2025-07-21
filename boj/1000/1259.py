@@ -1,5 +1,5 @@
 while True:
-    s = input().strip()
+    s = input()
     if s == "0":
         break
     else:

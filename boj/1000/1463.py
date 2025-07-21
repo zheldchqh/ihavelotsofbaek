@@ -1,7 +1,7 @@
 import sys
 from collections import *
-
 input = sys.stdin.readline
+
 n = int(input())
 Q = deque([n])
 t=[0] * (n + 1)
